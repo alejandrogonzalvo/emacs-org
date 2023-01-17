@@ -1,0 +1,7 @@
+#+title: Agenda
+
+* Task List
+** TODO Learn to use org-agenda
+SCHEDULED: <2023-01-17 Tue 21:00>
+
+* TODO this is an example task.
